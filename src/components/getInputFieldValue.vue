@@ -6,6 +6,8 @@
     <br>
     <br>
     <input type="Password" placeholder="Enter Password">
+    <br><br>
+    <button type="buy">Submit</button>
 
 </div>
 </template>
