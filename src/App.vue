@@ -1,5 +1,5 @@
 <template>
-  <Home />
+  <HomeView />
 </template>
   
 <script>
@@ -9,7 +9,7 @@ export default {
   name: 'App',
   components: {
     
-    Home
+    HomeView
   }
 }
 </script>
