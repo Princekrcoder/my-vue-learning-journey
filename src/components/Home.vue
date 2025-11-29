@@ -2,5 +2,7 @@
     <h1>Home Components</h1>
 </template>
 <script>
-export def
+export default {
+    name: 'Home'
+}
 </script>
