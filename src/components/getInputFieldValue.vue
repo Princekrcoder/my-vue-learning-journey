@@ -3,7 +3,7 @@
     <h1>Lecture - 11</h1>
     <h1>Get Input Field Value</h1>
     <input type="text" placeholder="Enter Email">
-    <input type="Password" placeholder="Enter ">
+    <input type="Password" placeholder="Enter Password">
 
 </div>
 </template>
