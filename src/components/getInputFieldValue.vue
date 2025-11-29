@@ -4,6 +4,7 @@
     <h1>Get Input Field Value</h1>
     <input type="text" placeholder="Enter Email">
     <br>
+    <br>
     <input type="Password" placeholder="Enter Password">
 
 </div>
