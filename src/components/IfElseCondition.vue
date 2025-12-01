@@ -4,15 +4,16 @@
     <h1>Ife Condition Component</h1>
     <p v-if="A">This is true Condition</p>
 
-<h1>If-Else Condition Component</h1>
+    <h1>If-Else Condition Component</h1>
     <p v-if="B">This is true Condition</p>
     <p v-else>This is false Condition</p>
 
     <h1>If-Else Condition Component</h1>
     <p v-if="C">This is true Condition</p>
-    <p v-else-if="D">This is true Condition</p>
+    <p v-else-if="D">This is else-if Condition</p>
     <p v-else>This is else Condition</p>
 
+    
 </div>
 </template>
 
@@ -38,6 +39,6 @@ div {
     color: #2c3e50;
     margin-top: 60px;
     background-color: rgb(238, 152, 255);
-    margin:0px 0px 100px 0px;
+    margin: 0px 0px 100px 0px;
 }
 </style>
