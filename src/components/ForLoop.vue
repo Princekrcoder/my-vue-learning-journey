@@ -14,7 +14,11 @@ export default {
     name: 'ForLoop',
     data() {
         return {
-            techStack: ['HTML', 'CSS', 'JavaScript', 'Vue.js', 'Node.js']
+            techStack: ['HTML', 'CSS', 'JavaScript', 'Vue.js', 'Node.js'],
+
+            user: [
+                
+            ]
         }
     }
 }
