@@ -5,9 +5,9 @@
     <p>This is true Condition</p>
     <p v-if="A">This is true Condition</p>
 
-<h1 v-if="B">If-Else Condition Component</h1>
-    <p>This is true Condition</p>
-    <p>This is true Condition</p>
+<h1>If-Else Condition Component</h1>
+    <p v-if="B">This is true Condition</p>
+    <p >This is false Condition</p>
 
     <p>This is true Condition</p>
     <p>This is true Condition</p>
