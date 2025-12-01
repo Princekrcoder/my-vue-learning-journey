@@ -6,10 +6,10 @@
         <label for="java">java</label>
         <input type="checkbox" value="java" id="java">
 
-        <label for="java">java</label>
-        <input type="checkbox" value="java" id="java">
+        <label for="php">php</label>
+        <input type="checkbox" value="java" id="php">
 
-        <label for="java">java</label>
+        <label for="node">node</label>
         <input type="checkbox" value="java" id="java">
     </div>
 </template>
