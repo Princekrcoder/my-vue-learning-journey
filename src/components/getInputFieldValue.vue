@@ -5,7 +5,7 @@
     <input type="text" placeholder="Enter Email" v-model="email">
     <br>
     <br>
-    <input type="Password" placeholder="Enter Password" v-model="">
+    <input type="Password" placeholder="Enter Password" v-model="password">
     <br><br>
     <button type="button">Get Values</button>
 
