@@ -12,6 +12,7 @@
         <label for="node">node</label>
         <input type="checkbox" value="node" id="node" v-model="technologies">
 
+        <br><br>
         <h4>Selected Technologies : {{ technologies }}</h4>
     </div>
 </template>
