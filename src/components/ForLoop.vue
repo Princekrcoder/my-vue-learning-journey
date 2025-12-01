@@ -5,6 +5,9 @@
     <ul>
         <li v-for="i in techStack" :key="i">{{ i }}</li>
     </ul>
+    <br><br>
+    <h2>User List</h2>
+    
 
 </div>
 </template>
