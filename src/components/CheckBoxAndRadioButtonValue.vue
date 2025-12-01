@@ -21,7 +21,9 @@
         <label for="developer">Developer</label>
         <input type="radio" name="who" value="Developer" id="developer" v-model="who">
 
+
         <h4>Selected Technologies : {{ technologies }}</h4>
+        <h4>Who am I : {{ who }}</h4>
     </div>
 </template>
 
