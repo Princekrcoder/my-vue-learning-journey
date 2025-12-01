@@ -22,8 +22,9 @@ export default {
         },
         methods: {
             getData() {
-                alert(`Email: ${this.email}`)
-            }  
+                alert(`Email: ${this.email}, Password: ${this.password}`);
+            },
+              
         }
     }
 
