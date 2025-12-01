@@ -4,7 +4,13 @@
         <h1>CheckBox and Radio Button Value</h1>
 
         <label for="java">java</label>
-        <input type="checkbox"  id="">
+        <input type="checkbox" value="java" id="java">
+
+        <label for="java">java</label>
+        <input type="checkbox" value="java" id="java">
+
+        <label for="java">java</label>
+        <input type="checkbox" value="java" id="java">
     </div>
 </template>
 
