@@ -4,13 +4,13 @@
         <h1>CheckBox and Radio Button Value</h1>
 
         <label for="java">java</label>
-        <input type="checkbox" value="java" id="java" v-model="">
+        <input type="checkbox" value="java" id="java" v-model="technologies">
 
         <label for="php">php</label>
-        <input type="checkbox" value="php" id="php">
+        <input type="checkbox" value="php" id="php" v-model="technologies">
 
         <label for="node">node</label>
-        <input type="checkbox" value="node" id="node">
+        <input type="checkbox" value="node" id="node" >
 
         <h4>Selected Technologies : {{ technologies }}</h4>
     </div>
