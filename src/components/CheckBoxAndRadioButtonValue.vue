@@ -7,6 +7,15 @@
 
 
 <script>
+export default {
+    name: 'CheckBoxAndRadioButtonValue',
+    data() {
+        return {
+            //
+        }
+    }
+
+}
 </script>
 
 <style scoped></style>
