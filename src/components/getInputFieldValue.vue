@@ -18,7 +18,7 @@ export default {
     data() {
         return {
             email: null,
-            password: ''
+            password: null
         },
         methods: {
             getData() {
