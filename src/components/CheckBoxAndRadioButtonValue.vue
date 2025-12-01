@@ -7,7 +7,7 @@
         <input type="checkbox" value="java" id="java">
 
         <label for="php">php</label>
-        <input type="php" value="php" id="php">
+        <input type="checkbox" value="php" id="php">
 
         <label for="node">node</label>
         <input type="checkbox" value="node" id="node">
@@ -36,6 +36,7 @@ div {
     color: #2c3e50;
     margin-top: 60px;
     background-color: aqua;
+    pa
 }
 
 </style>
