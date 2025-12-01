@@ -20,7 +20,9 @@ export default {
             email: '',
             password: ''
         },
-        metho
+        methods: {
+           get   
+        }
     }
 
 }
