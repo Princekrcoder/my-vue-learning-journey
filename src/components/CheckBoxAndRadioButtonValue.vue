@@ -36,7 +36,7 @@ div {
     color: #2c3e50;
     margin-top: 60px;
     background-color: aqua;
-    margin:0px 0px 100px;
+    margin:0px 0px 100px 0px;
 }
 
 </style>
