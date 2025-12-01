@@ -28,7 +28,7 @@ export default {
         return {
             A: true,
             B: false,
-            show: true
+            show: false
         }
     }
 
