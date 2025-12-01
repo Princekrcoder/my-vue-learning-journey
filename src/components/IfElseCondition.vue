@@ -7,7 +7,7 @@
 
 <h1>If-Else Condition Component</h1>
     <p v-if="B">This is true Condition</p>
-    <p >This is false Condition</p>
+    <p v-else>This is false Condition</p>
 
     <p>This is true Condition</p>
     <p>This is true Condition</p>
