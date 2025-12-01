@@ -34,21 +34,21 @@ export default {
 </script>
 
 <style>
-/* Headings */
+
 h1, h2, h3, h4, h5, h6 {
   color: #111;
   margin-bottom: 10px;
   font-weight: 600;
 }
 
-/* Paragraph */
+
 p {
   color: #555;
   line-height: 1.6;
   margin-bottom: 12px;
 }
 
-/* Form controls */
+
 input, select, textarea {
   width: 100%;
   padding: 8px 10px;
