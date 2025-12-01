@@ -66,6 +66,7 @@ button {
   background: #2563eb;
   color: white;
   cursor: pointer;
+  margin: 5px;
 }
 
 button:hover {
