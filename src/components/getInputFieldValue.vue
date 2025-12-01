@@ -21,7 +21,7 @@ export default {
             password: ''
         },
         methods: {
-           get   
+           getMetadata()  
         }
     }
 
