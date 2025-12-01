@@ -2,13 +2,13 @@
 <div>
     <h1>Lecture - 13</h1>
     <h1>Ife Condition Component</h1>
-    <p>This is true Condition</p>
     <p v-if="A">This is true Condition</p>
 
 <h1>If-Else Condition Component</h1>
     <p v-if="B">This is true Condition</p>
     <p v-else>This is false Condition</p>
 
+    <h1>If-Else Condition Component</h1>
     <p>This is true Condition</p>
     <p>This is true Condition</p>
     <p>This is true Condition</p>
