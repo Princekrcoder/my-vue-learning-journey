@@ -19,13 +19,13 @@ export default {
         return {
             email: null,
             password: null
-        },
+        }
+    },
         methods: {
             getData() {
                 alert(`Email: ${this.email}, Password: ${this.password}`);
             },
               
         }
-    }
 }
 </script>
