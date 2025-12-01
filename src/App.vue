@@ -3,6 +3,7 @@
     <HomeView />
     <TwoWayBinding />
     <GetInputFieldValue />
+    <CheckBoxAndRadioButtonValue />
 </div>
 </template>
 
@@ -10,6 +11,7 @@
 import HomeView from './components/Home.vue'
 import TwoWayBinding from './components/TowWayBinding.vue'
 import GetInputFieldValue from './components/getInputFieldValue.vue'
+import CheckBoxAndRadioButtonValue from './components/CheckBoxAndRadioButtonValue.vue'
 
 export default {
     name: 'App',
