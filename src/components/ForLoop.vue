@@ -9,7 +9,7 @@
     <h2>User List</h2>
     <ul>
         <li v-for="value in user" :key="value">
-            Name is : {{ value.name }}
+            Name is : {{ value.name}}, Age is : {{ value.age }}
         </li>
     </ul>
 
