@@ -11,7 +11,7 @@
     <h1>If-Else Condition Component</h1>
     <p v-if=C">This is true Condition</p>
     <p v-else-if="C">This is true Condition</p>
-    <p v-else>This is true Condition</p>
+    <p v-else="C">This is true Condition</p>
 
 </div>
 </template>
