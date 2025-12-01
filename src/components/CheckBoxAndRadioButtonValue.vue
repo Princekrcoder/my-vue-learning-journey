@@ -20,7 +20,7 @@ export default {
     name: 'CheckBoxAndRadioButtonValue',
     data() {
         return {
-            //
+            technologies: []
         }
     }
 
