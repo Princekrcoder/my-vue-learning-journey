@@ -20,7 +20,8 @@ export default {
 
         HomeView,
         TwoWayBinding,
-        GetInputFieldValue
+        GetInputFieldValue,
+        CheckBoxAndRadioButtonValue
 
     }
 }
