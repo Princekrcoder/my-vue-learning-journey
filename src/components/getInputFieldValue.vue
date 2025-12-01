@@ -22,7 +22,7 @@ export default {
         },
         methods: {
             getData() {
-                alert(``)
+                alert(`Email: ${this.email}`)
             }  
         }
     }
