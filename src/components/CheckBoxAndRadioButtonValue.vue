@@ -4,7 +4,7 @@
         <h1>CheckBox and Radio Button Value</h1>
 
         <label for="java">java</label>
-        inp
+        <input type="checkbox"  id="">
     </div>
 </template>
 
