@@ -2,7 +2,7 @@
 <div>
     <h1>Lecture - 13</h1>
     <h1>If-Else Condition Component</h1>
-    <h2>If Condition</h2>
+    <p>This is true Condition</p>
     <p v-if="A">This is true Condition</p>
 
 
@@ -19,6 +19,11 @@
 <script>
 export default {
     name: 'IfElseCondition',
+    data() {
+        return {
+            A: true
+        }
+    }
 
 }
 </script>
