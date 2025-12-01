@@ -5,7 +5,7 @@
     <p>This is true Condition</p>
     <p v-if="A">This is true Condition</p>
 
-
+<h1 v-if="B">If-Else Condition Component</h1>
     <p>This is true Condition</p>
     <p>This is true Condition</p>
 
@@ -21,7 +21,8 @@ export default {
     name: 'IfElseCondition',
     data() {
         return {
-            A: true
+            A: true,
+            B: false
         }
     }
 
