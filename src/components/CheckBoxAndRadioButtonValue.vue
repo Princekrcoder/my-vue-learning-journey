@@ -15,7 +15,8 @@
         <br><br>
         <h3>Who am I</h3>
 
-        <label for=""></label>
+        <label for="student">Student</label>
+        <input type="radio" value="Student" id="student" v-model="technologies">
 
         <h4>Selected Technologies : {{ technologies }}</h4>
     </div>
