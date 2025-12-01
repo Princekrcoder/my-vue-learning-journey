@@ -45,6 +45,6 @@ div {
     color: #2c3e50;
     margin-top: 60px;
     background-color: rgb(238, 152, 255);
-    margin: 0px 0px 100px 0px;
+    p
 }
 </style>
