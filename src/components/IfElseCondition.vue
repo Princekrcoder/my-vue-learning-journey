@@ -1,6 +1,11 @@
 <template></template>
 
-<script></script>
+<script>
+export default {
+    name: 'IfElseCondition',
+    
+}
+</script>
 
 <style scoped>
 div {
