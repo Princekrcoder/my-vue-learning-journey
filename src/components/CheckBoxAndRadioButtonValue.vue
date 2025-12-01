@@ -23,7 +23,7 @@
 
 
         <h4>Selected Technologies : {{ technologies }}</h4>
-        <h4>Who am I : {{ who }}</h4>
+        <h4> I am : {{ who }}</h4>
     </div>
 </template>
 
