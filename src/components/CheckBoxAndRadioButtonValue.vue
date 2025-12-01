@@ -4,7 +4,7 @@
         <h1>CheckBox and Radio Button Value</h1>
 
         <label for="java">java</label>
-        <input type="checkbox" value="java" id="java">
+        <input type="checkbox" value="java" id="java" v-model="">
 
         <label for="php">php</label>
         <input type="checkbox" value="php" id="php">
