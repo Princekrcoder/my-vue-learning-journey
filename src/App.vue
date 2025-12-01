@@ -58,7 +58,7 @@ input, select, textarea {
   font-size: 14px;
 }
 
-/* Buttons */
+
 button {
   padding: 10px 16px;
   border-radius: 6px;
