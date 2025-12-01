@@ -19,7 +19,7 @@
         <input type="radio" name="who" value="Student" id="student" v-model="technologies">
 
         <label for="developer">Developer</label>
-        <input type="radio" name="who" value="Developer" id="developer" v-model="technologies">
+        <input type="radio" name="who" value="Developer" id="developer" v-model="who">
 
         <h4>Selected Technologies : {{ technologies }}</h4>
     </div>
@@ -31,7 +31,8 @@ export default {
     name: 'CheckBoxAndRadioButtonValue',
     data() {
         return {
-            technologies: []
+            technologies: [],
+            who: null
         }
     }
 
