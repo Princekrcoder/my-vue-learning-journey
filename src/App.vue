@@ -73,54 +73,6 @@ button:hover {
   background: #1e40af;
 }
 
-/* Unordered List */
-ul {
-  padding-left: 1.2rem;   /* left spacing */
-  margin-bottom: 1rem;
-  list-style: disc;       /* ● bullet */
-  color: #444;            /* text color */
-}
-
-/* Ordered List */
-ol {
-  padding-left: 1.2rem;
-  margin-bottom: 1rem;
-  list-style: decimal;    /* 1, 2, 3 */
-  color: #444;
-}
-
-/* List Items */
-li {
-  margin-bottom: 6px;     /* spacing between items */
-  line-height: 1.6;
-  font-size: 15px;
-}
-
-/* Nested lists (inside li) */
-li ul, 
-li ol {
-  margin-top: 6px;
-  margin-left: 1rem;
-}
-
-/* Optional: Beautiful custom bullet */
-ul.custom-bullet {
-  padding-left: 0;
-  list-style: none;
-}
-
-ul.custom-bullet li {
-  position: relative;
-  padding-left: 1.2rem;
-}
-
-ul.custom-bullet li::before {
-  content: "•";
-  position: absolute;
-  left: 0;
-  color: #2563eb; /* blue bullet */
-  font-size: 1.2rem;
-}
 
 
 </style>
