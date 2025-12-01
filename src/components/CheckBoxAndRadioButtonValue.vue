@@ -16,7 +16,7 @@
         <h3>Who am I</h3>
 
         <label for="student">Student</label>
-        <input type="radio" nam value="Student" id="student" v-model="technologies">
+        <input type="radio" name="who" value="Student" id="student" v-model="technologies">
 
         <label for="developer">Developer</label>
         <input type="radio" name="who" value="Developer" id="developer" v-model="technologies">
