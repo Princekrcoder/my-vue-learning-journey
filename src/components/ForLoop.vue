@@ -17,7 +17,9 @@ export default {
             techStack: ['HTML', 'CSS', 'JavaScript', 'Vue.js', 'Node.js'],
 
             user: [
-                
+                { name: 'Alice', age: 25 },
+                { name: 'Bob', age: 30 },
+                { name: 'Charlie', age: 35 }
             ]
         }
     }
