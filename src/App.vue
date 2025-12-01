@@ -5,7 +5,7 @@
     <GetInputFieldValue />
     <CheckBoxAndRadioButtonValue />
     <IfElseCondition />
-    
+    <ForLoop />
 </div>
 </template>
 
@@ -15,6 +15,8 @@ import TwoWayBinding from './components/TowWayBinding.vue'
 import GetInputFieldValue from './components/getInputFieldValue.vue'
 import CheckBoxAndRadioButtonValue from './components/CheckBoxAndRadioButtonValue.vue'
 import IfElseCondition from './components/IfElseCondition.vue'
+import ForLoop from './components/ForLoop.vue'
+
 export default {
     name: 'App',
 
@@ -24,7 +26,8 @@ export default {
         TwoWayBinding,
         GetInputFieldValue,
         CheckBoxAndRadioButtonValue,
-        IfElseCondition
+        IfElseCondition,
+        ForLoop
 
     }
 }
