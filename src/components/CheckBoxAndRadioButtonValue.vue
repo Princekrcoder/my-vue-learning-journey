@@ -37,6 +37,7 @@ div {
     margin-top: 60px;
     background-color: aqua;
     margin:0px 0px 100px 0px;
+    padding: 20px;
 }
 
 </style>
