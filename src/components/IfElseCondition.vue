@@ -1,10 +1,12 @@
 <template>
-
+<div>
+    <h1>If-Else Condition Component</h1>
+</div>
 </template>
 
 <script>
 export default {
-    name: 'IfElseCondition'
+    name: 'IfElseCondition',
 
 }
 </script>
@@ -17,7 +19,7 @@ div {
     text-align: center;
     color: #2c3e50;
     margin-top: 60px;
-    background-color: aqua;
+    background-color: rgb(255, 0, 204);
     margin:0px 0px 100px 0px;
 }
 </style>
