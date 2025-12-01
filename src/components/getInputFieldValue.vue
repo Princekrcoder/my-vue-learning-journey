@@ -17,7 +17,7 @@ export default {
     name: 'GetInputFieldValue',
     data() {
         return {
-            email: '',
+            email: null,
             password: ''
         },
         methods: {
