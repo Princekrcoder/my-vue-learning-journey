@@ -15,6 +15,7 @@
 
     <p v-if="show">This is true Condition</p>
     <p v-else>This is false Condition</p>
+    
     <button v-on:click="show!=show">Toogle</button>
 
 </div>
