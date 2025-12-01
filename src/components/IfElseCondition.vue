@@ -1,5 +1,6 @@
 <template>
 <div>
+    <h1>L</h1>
     <h1>If-Else Condition Component</h1>
 </div>
 </template>
@@ -19,7 +20,7 @@ div {
     text-align: center;
     color: #2c3e50;
     margin-top: 60px;
-    background-color: rgb(255, 0, 204);
+    background-color: rgb(238, 152, 255);
     margin:0px 0px 100px 0px;
 }
 </style>
