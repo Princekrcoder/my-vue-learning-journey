@@ -8,7 +8,7 @@
     <br><br>
     <h2>User List</h2>
     <ul>
-        <li v-for="value in "></li>
+        <li v-for="value in user" :key="value."></li>
     </ul>
 
 </div>
