@@ -15,7 +15,13 @@
 <script>
 export default {
     name: 'GetInputFieldValue',
-    
+    data() {
+        return {
+            email: '',
+            password: ''
+        },
+        metho
+    }
 
 }
 </script>
