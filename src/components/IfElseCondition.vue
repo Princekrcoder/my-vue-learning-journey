@@ -2,8 +2,8 @@
 <div>
     <h1>Lecture - 13</h1>
     <h1>If-Else Condition Component</h1>
-    <h2>I</h2>
-    <p>This is true Condition</p>
+    <h2>If Condition</h2>
+    <p v-if="A">This is true Condition</p>
 
 
     <p>This is true Condition</p>
