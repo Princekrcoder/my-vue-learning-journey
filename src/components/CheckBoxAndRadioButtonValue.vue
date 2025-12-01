@@ -10,7 +10,7 @@
         <input type="checkbox" value="php" id="php" v-model="technologies">
 
         <label for="node">node</label>
-        <input type="checkbox" value="node" id="node" >
+        <input type="checkbox" value="node" id="node" v-model="technologies">
 
         <h4>Selected Technologies : {{ technologies }}</h4>
     </div>
