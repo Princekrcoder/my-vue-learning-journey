@@ -1,6 +1,6 @@
 <template>
 <div>
-    <h1>L</h1>
+    <h1>Lecture - 13</h1>
     <h1>If-Else Condition Component</h1>
 </div>
 </template>
