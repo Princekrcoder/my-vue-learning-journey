@@ -14,10 +14,9 @@
     <p v-else>This is else Condition</p> -->
 
     <p v-if="show">This is true Condition</p>
-
     <p v-else>This is false Condition</p>
     <button v-on:click="show!=show">Toogle</button>
-    
+
 </div>
 </template>
 
@@ -27,7 +26,8 @@ export default {
     data() {
         return {
             A: true,
-            B: false
+            B: false,
+            show: true
         }
     }
 
