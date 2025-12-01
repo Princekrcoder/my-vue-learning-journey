@@ -7,10 +7,10 @@
         <input type="checkbox" value="java" id="java">
 
         <label for="php">php</label>
-        <input type="checkbox" value="java" id="php">
+        <input type="php" value="php" id="php">
 
         <label for="node">node</label>
-        <input type="checkbox" value="java" id="java">
+        <input type="checkbox" value="node" id="node">
     </div>
 </template>
 
