@@ -26,8 +26,8 @@ export default {
     name: 'IfElseCondition',
     data() {
         return {
-            A: true,
-            B: false,
+            // A: true,
+            // B: false,
             show: false
         }
     }
