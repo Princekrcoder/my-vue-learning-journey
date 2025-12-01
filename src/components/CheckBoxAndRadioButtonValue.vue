@@ -12,7 +12,7 @@
         <label for="node">node</label>
         <input type="checkbox" value="node" id="node">
 
-        <h4>S</h4>
+        <h4>Selected Technologies : </h4>
     </div>
 </template>
 
