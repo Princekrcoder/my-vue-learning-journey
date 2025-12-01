@@ -13,6 +13,8 @@
         <input type="checkbox" value="node" id="node" v-model="technologies">
 
         <br><br>
+        <h3>Who am I</h3>
+        
         <h4>Selected Technologies : {{ technologies }}</h4>
     </div>
 </template>
