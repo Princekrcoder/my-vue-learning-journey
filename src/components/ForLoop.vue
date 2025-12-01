@@ -8,7 +8,10 @@
 </template>
 
 <script>
+export default {
+    name: 'ForLoop',
 
+}
 </script>
 
 <style scoped></style>
