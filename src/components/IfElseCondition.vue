@@ -9,8 +9,8 @@
     <p v-else>This is false Condition</p>
 
     <h1>If-Else Condition Component</h1>
-    <p v-e>This is true Condition</p>
-    <p>This is true Condition</p>
+    <p v->This is true Condition</p>
+    <p v-else-if="">This is true Condition</p>
     <p>This is true Condition</p>
 
 </div>
