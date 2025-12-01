@@ -7,7 +7,7 @@
     <br>
     <input type="Password" placeholder="Enter Password" v-model="password">
     <br><br>
-    <button v-on:click="getData" type="button">Get Values</button>
+    <button v-on:click="getData()" type="button">Get Values</button>
 
 </div>
 </template>
