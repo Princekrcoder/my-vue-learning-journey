@@ -13,7 +13,7 @@
     <p v-else-if="D">This is else-if Condition</p>
     <p v-else>This is else Condition</p> -->
 
-    <p v-if="B">This is true Condition</p>
+    <p v-if="show">This is true Condition</p>
     <p v-else>This is false Condition</p>
     
 </div>
