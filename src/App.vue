@@ -92,21 +92,20 @@ ol {
   color: #444;
 }
 
-/* List Items */
 li {
-  margin-bottom: 6px;     /* spacing between items */
+  margin-bottom: 6px;     
   line-height: 1.6;
   font-size: 15px;
 }
 
-/* Nested lists (inside li) */
+
 li ul, 
 li ol {
   margin-top: 6px;
   margin-left: 1rem;
 }
 
-/* Optional: Beautiful custom bullet */
+
 ul.custom-bullet {
   padding-left: 0;
   list-style: none;
@@ -121,7 +120,7 @@ ul.custom-bullet li::before {
   content: "•";
   position: absolute;
   left: 0;
-  color: #2563eb; /* blue bullet */
+  color: #2563eb; 
   font-size: 1.2rem;
 }
 
