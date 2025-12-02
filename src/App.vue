@@ -6,6 +6,7 @@
     <CheckBoxAndRadioButtonValue />
     <IfElseCondition />
     <ForLoop />
+    <PassDataToChild />
     
 </div>
 </template>
