@@ -5,6 +5,8 @@
 
         <button v-on:dblclick="getData('data fetched successfully!')">Click Me</button>
         <h1>{{ count }}</h1>
+        
+        <PassDataToChild />
     </div>
     
 </template>
@@ -15,7 +17,7 @@ export default {
 
     components: {
         PassDataToChild
-    }
+    },
 
     data() {
         return {
