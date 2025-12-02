@@ -13,8 +13,8 @@ export default {
   name: 'PassDataToChild',
   props: {
     name: String
-    user: Object,
-    al:
+    u: Object,
+    al: Function
   }
 }
 </script>
