@@ -12,8 +12,8 @@
 export default {
   name: 'PassDataToChild',
   props: {
-    name: String
-    u: Object,
+    name: String,
+    us: Object,
     al: Function
   }
 }
