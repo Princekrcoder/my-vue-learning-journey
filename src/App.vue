@@ -18,7 +18,7 @@ import GetInputFieldValue from './components/getInputFieldValue.vue'
 import CheckBoxAndRadioButtonValue from './components/CheckBoxAndRadioButtonValue.vue'
 import IfElseCondition from './components/IfElseCondition.vue'
 import ForLoop from './components/ForLoop.vue'
-
+import PassDataToChild from './components/PassDataToChild.vue'
 
 export default {
     name: 'App',
@@ -30,7 +30,8 @@ export default {
         GetInputFieldValue,
         CheckBoxAndRadioButtonValue,
         IfElseCondition,
-        ForLoop
+        ForLoop,
+        PassDataToChild
     }
 }
 </script>
