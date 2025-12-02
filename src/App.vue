@@ -76,19 +76,19 @@ button:hover {
   background: #1e40af;
 }
 
-/* Unordered List */
+
 ul {
-  padding-left: 1.2rem;   /* left spacing */
+  padding-left: 1.2rem;  
   margin-bottom: 1rem;
-  list-style: disc;       /* ● bullet */
-  color: #444;            /* text color */
+  list-style: disc;      
+  color: #444;            
 }
 
-/* Ordered List */
+
 ol {
   padding-left: 1.2rem;
   margin-bottom: 1rem;
-  list-style: decimal;    /* 1, 2, 3 */
+  list-style: decimal;    
   color: #444;
 }
 
