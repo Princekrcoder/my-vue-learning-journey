@@ -25,6 +25,8 @@ export default {
 div {
   text-align: center;
   background-color: bisque;
-  
+    padding: 20px;
+    border: 5px solid black;
+    border-radius: 10px;
 }
 </style>
