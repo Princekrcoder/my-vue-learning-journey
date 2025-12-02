@@ -33,7 +33,10 @@ export default {
         getconsole() {
             this.count += 1;
             console.log(`Mouse moved ${this.count} times`);
-        }
+        },
+        getData() {
+                alert(`Email: ${this.email}, Password: ${this.password}`);
+            }
     }
 }
 </script>
