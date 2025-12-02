@@ -22,5 +22,9 @@ export default {
 </script>
 
 <style scoped>
-div
+div {
+  text-align: center;
+  background-color: bisque;
+  
+}
 </style>
