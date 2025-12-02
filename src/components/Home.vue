@@ -35,7 +35,7 @@ export default {
             console.log(`Mouse moved ${this.count} times`);
         },
         getalert() {
-                alert(`Email: ${this.email}, Password: ${this.password}`);
+                alert(`Hello from Parent Component!`);
             }
     }
 }
