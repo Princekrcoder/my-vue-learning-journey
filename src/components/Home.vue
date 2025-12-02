@@ -13,6 +13,10 @@ import PassDataToChild from './PassDataToChild.vue'
 export default {
     name: 'HomeView',
 
+    components: {
+        PassDataToChild
+    }
+
     data() {
         return {
             count : 0
