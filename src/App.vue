@@ -31,7 +31,7 @@ export default {
         CheckBoxAndRadioButtonValue,
         IfElseCondition,
         ForLoop,
-        
+        PassDataToChild
     }
 }
 </script>
