@@ -9,7 +9,7 @@
     
 </template>
 <script>
-
+import PassDataToChild from './PassDataToChild.vue'
 export default {
     name: 'HomeView',
 
