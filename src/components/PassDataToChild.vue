@@ -7,4 +7,9 @@
 </template>
 
 <script>
+export default {
+  name: 'PassDataToChild',
+  
+  }
+}
 </script>
