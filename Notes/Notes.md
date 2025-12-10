@@ -47,28 +47,34 @@
 
 </span>
 
-## Module 1: Introduction to Vue.js
-
-### 1.1 What is Vue.js?
+<br/> <div align="center"> <h1>📘 Module 1: Introduction to Vue.js</h1> </div>
+<br/>
+<span style="font-size: 25px;">🔹 1.1 What is Vue.js?</span>
+<span style="font-size: 19px; line-height: 1.7;">
 
 Vue.js is a progressive JavaScript framework for building user interfaces. Created by Evan You in 2014, Vue focuses on the view layer and is designed to be incrementally adoptable.
 
-**Key Characteristics:**
+<br/><br/>
 
-- **Progressive**: Can be used for simple enhancements or complex Single Page Applications (SPAs)
-- **Reactive**: Automatic UI updates when data changes
-- **Component-Based**: Encourages reusable, maintainable code
-- **Approachable**: Easy learning curve with excellent documentation
+<b>Key Characteristics:</b>
 
-**Vue's Core Philosophy:**
+</span> <span style="font-size: 19px; line-height: 1.85;">
 
-Vue sits between React's flexibility and Angular's opinionated structure, providing the best of both worlds.
+⭐ <b>Progressive</b>: Can be used for simple enhancements or complex SPAs
 
-### 1.2 Setting Up Vue.js
+⭐ <b>Reactive</b>: UI updates automatically when data changes
 
-**Method 1: CDN (Quick Start)**
+⭐ <b>Component-Based</b>: Enables reusable, maintainable structures
 
-```html
+⭐ <b>Approachable</b>: Low learning curve
+
+</span> <span style="font-size: 19px; line-height: 1.7;"> <br/> <b>Vue's Core Philosophy:</b> Vue balances React's flexibility and Angular's structured ecosystem. </span>
+<br/>
+<span style="font-size: 25px;">🔹 1.2 Setting Up Vue.js</span>
+<br/>
+
+<span style="font-size: 21px;"><b>Method 1: CDN (Quick Start)</b></span>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -93,57 +99,43 @@ Vue sits between React's flexibility and Angular's opinionated structure, provid
     </script>
 </body>
 </html>
-```
 
-**Method 2: Vue CLI / Vite (Production)**
+<br/>
 
-```bash
+<span style="font-size: 21px;"><b>Method 2: Vue CLI / Vite (Production)</b></span>
+
 # Using npm with Vite (recommended)
 npm create vue@latest
 
-# Follow prompts, then:
 cd your-project-name
 npm install
 npm run dev
-```
 
-### 1.3 Vue Instance Anatomy
-
-```javascript
+<br/>
+<span style="font-size: 25px;">🔹 1.3 Vue Instance Anatomy</span>
 const app = createApp({
-    // Data: Reactive state
     data() {
         return {
             count: 0,
             message: 'Hello'
         }
     },
-    
-    // Methods: Functions available to the template
     methods: {
         increment() {
             this.count++;
         }
     },
-    
-    // Computed: Cached reactive values
     computed: {
         doubleCount() {
             return this.count * 2;
         }
     },
-    
-    // Lifecycle hooks
     mounted() {
         console.log('Component is mounted!');
     }
 });
 
 app.mount('#app');
-```
-
----
-
 ## Module 2: Vue Instance and Reactivity System
 
 ### 2.1 Understanding Reactivity
