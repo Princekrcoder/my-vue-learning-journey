@@ -1618,14 +1618,3 @@ Keep practicing, read the documentation, and engage with the Vue community. Happ
 
 ---
 
-## Author
-
-**Professor [Senior Faculty]**
-
-## Credits
-
-Course materials compiled from official Vue.js documentation and academic curriculum.
-
-## Last Updated
-
-December 2025
