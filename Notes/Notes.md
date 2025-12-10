@@ -15,7 +15,7 @@
 
 <span style="font-size: 21px;">⬇️ Explore each module below:</span>
 
-<br/><br/>
+<br/>
 
 - [Module 1: Introduction to Vue.js](#module-1-introduction-to-vuejs)
 - [Module 2: Vue Instance and Reactivity System](#module-2-vue-instance-and-reactivity-system)
