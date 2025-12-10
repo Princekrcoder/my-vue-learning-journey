@@ -1,28 +1,38 @@
-# Vue.js Comprehensive Course Notes
+<div align="center">
+🌐 Vue.js Comprehensive Course Notes
+A complete guide for Vue.js fundamentals, advanced concepts, and best practices
+</div>
+📘 Description
 
-A complete guide to Vue.js covering fundamentals, advanced concepts, and best practices for building modern web applications.
+This repository contains structured and detailed study notes for Vue.js, including fundamental concepts and advanced development patterns. These notes cover the Vue.js framework along with the Options API, Composition API, Vue Router, and Pinia for state management—suitable for students and developers aiming to master Vue.js.
 
-## Description
+📚 Table of Contents
 
-This repository contains comprehensive study notes for Vue.js, covering everything from basic concepts to advanced patterns. These notes are designed for students and developers looking to master Vue.js framework, including the Options API, Composition API, Vue Router, and state management with Pinia.
+🔹 Module 1: Introduction to Vue.js
 
-## Table of Contents
+🔹 Module 2: Vue Instance and Reactivity System
 
-- [Module 1: Introduction to Vue.js](#module-1-introduction-to-vuejs)
-- [Module 2: Vue Instance and Reactivity System](#module-2-vue-instance-and-reactivity-system)
-- [Module 3: Template Syntax and Directives](#module-3-template-syntax-and-directives)
-- [Module 4: Computed Properties and Watchers](#module-4-computed-properties-and-watchers)
-- [Module 5: Component System](#module-5-component-system)
-- [Module 6: Props and Custom Events](#module-6-props-and-custom-events)
-- [Module 7: Lifecycle Hooks](#module-7-lifecycle-hooks)
-- [Module 8: Vue Router](#module-8-vue-router)
-- [Module 9: State Management with Pinia](#module-9-state-management-with-pinia)
-- [Module 10: Composition API](#module-10-composition-api)
-- [Module 11: Advanced Patterns and Best Practices](#module-11-advanced-patterns-and-best-practices)
-- [Practice Exercises](#comprehensive-exercises)
-- [Additional Resources](#additional-resources)
+🔹 Module 3: Template Syntax and Directives
 
----
+🔹 Module 4: Computed Properties and Watchers
+
+🔹 Module 5: Component System
+
+🔹 Module 6: Props and Custom Events
+
+🔹 Module 7: Lifecycle Hooks
+
+🔹 Module 8: Vue Router
+
+🔹 Module 9: State Management with Pinia
+
+🔹 Module 10: Composition API
+
+🔹 Module 11: Advanced Patterns and Best Practices
+
+🔹 Practice Exercises
+
+🔹 Additional Resources
 
 ## Module 1: Introduction to Vue.js
 
