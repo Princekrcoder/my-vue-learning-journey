@@ -1,12 +1,21 @@
-# Vue.js Comprehensive Course Notes
+<div align="center"> <h1>🌟🔥 Vue.js Comprehensive Course Notes 🔥🌟</h1> <h3>Learn → Practice → Master</h3> </div>
+<br/>
+<span style="font-size: 28px;">🧾 📌 Description</span>
+<span style="font-size: 20px; line-height: 1.6;">
 
-A complete guide to Vue.js covering fundamentals, advanced concepts, and best practices for building modern web applications.
+📁 This repository includes complete and organized study material for <b>Vue.js</b>, covering core fundamentals and advanced development levels.
+<br/>
+🧠 Topics include: <b>Options API</b>, <b>Composition API</b>, <b>Vue Router</b>, and <b>Pinia-based state handling</b>.
+<br/>
+🎯 Designed especially for learners and developers focusing on mastering the full Vue.js workflow.
 
-## Description
+</span>
+<br/>
+<span style="font-size: 28px;">📚📍 Table of Contents</span>
 
-This repository contains comprehensive study notes for Vue.js, covering everything from basic concepts to advanced patterns. These notes are designed for students and developers looking to master Vue.js framework, including the Options API, Composition API, Vue Router, and state management with Pinia.
+<span style="font-size: 21px;">⬇️ Explore each module below:</span>
 
-## Table of Contents
+<br/><br/>
 
 - [Module 1: Introduction to Vue.js](#module-1-introduction-to-vuejs)
 - [Module 2: Vue Instance and Reactivity System](#module-2-vue-instance-and-reactivity-system)
