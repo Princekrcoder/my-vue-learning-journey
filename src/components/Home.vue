@@ -8,7 +8,7 @@
         <h1>Pass Data To Child Component</h1>
         <PassDataToChild name="Prince" :us ="user" :al = "getalert"/>
     </div>
-    
+     
 </template>
 <script>
 import PassDataToChild from './PassDataToChild.vue'
