@@ -1,8 +1,23 @@
 <div align="center"> <h1>🌟🔥 Vue.js Comprehensive Course Notes 🔥🌟</h1> <h3>Learn → Practice → Master</h3> </div>
+<br/>
 <span style="font-size: 28px;">🧾 📌 Description</span>
-<span style="font-size: 20px;"> 📁 This repository includes complete and organized study material for <b>Vue.js</b>, covering core fundamentals and advanced development levels. 🧠 Topics include: <b>Options API</b>, <b>Composition API</b>, <b>Vue Router</b>, and <b>Pinia-based state handling</b>. 🎯 Designed especially for learners and developers focusing on mastering the full Vue.js workflow. </span>
+<span style="font-size: 20px; line-height: 1.6;">
+
+📁 This repository includes complete and organized study material for <b>Vue.js</b>, covering core fundamentals and advanced development levels.
+<br/>
+🧠 Topics include: <b>Options API</b>, <b>Composition API</b>, <b>Vue Router</b>, and <b>Pinia-based state handling</b>.
+<br/>
+🎯 Designed especially for learners and developers focusing on mastering the full Vue.js workflow.
+
+</span>
+<br/>
 <span style="font-size: 28px;">📚📍 Table of Contents</span>
-<span style="font-size: 21px;"> ⬇️ Explore each module below: </span> <br/> <span style="font-size: 20px;">
+
+<span style="font-size: 21px;">⬇️ Explore each module below:</span>
+
+<br/><br/>
+
+<span style="font-size: 20px; line-height: 1.85;">
 
 🔗 ➤ Module 1: Introduction to Vue.js
 
