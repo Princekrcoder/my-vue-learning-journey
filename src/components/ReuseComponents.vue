@@ -5,5 +5,7 @@
 </template>
 
 <script>
-export 
+export default {
+    name: "ReuseComponents"
+}
 </script>
