@@ -6,7 +6,7 @@
         <button v-on:dblclick="getData('data fetched successfully!')">Click Me</button>
         <h1>{{ count }}</h1>
         <h1>Pass Data To Child Component</h1>
-        <PassDataToChild name="Prince" :us ="user" :al = "getalert" style=""/>
+        <PassDataToChild name="Prince" :us ="user" :al = "getalert" style="display: none;"/>
     </div>
      
 </template>
