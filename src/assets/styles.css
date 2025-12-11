@@ -93,3 +93,121 @@ div {
 
 
 
+/* ------------------------------
+   GLOBAL TYPOGRAPHY
+------------------------------ */
+h1, h2, h3, h4, h5, h6 {
+  color: #0f172a;               /* Deep slate color */
+  margin-bottom: 12px;
+  font-weight: 600;
+  letter-spacing: -0.3px;
+}
+
+p {
+  color: #475569;               /* Softer text color */
+  line-height: 1.7;
+  margin-bottom: 14px;
+  font-size: 15px;
+}
+
+/* ------------------------------
+   INPUTS & FORM CONTROLS
+------------------------------ */
+input, select, textarea {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid #cbd5e1;    /* Softer border */
+  background: #f8fafc;          /* Slight background */
+  border-radius: 8px;
+  margin-bottom: 12px;
+  font-size: 15px;
+  transition: 0.25s ease;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  border-color: #2563eb;
+  outline: none;
+  background: #fff;
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.15);
+}
+
+/* ------------------------------
+   BUTTONS
+------------------------------ */
+button {
+  padding: 10px 18px;
+  border-radius: 8px;
+  border: none;
+  background: #2563eb;
+  color: white;
+  cursor: pointer;
+  margin: 6px 4px;
+  font-size: 15px;
+  font-weight: 500;
+  transition: 0.25s ease;
+}
+
+button:hover {
+  background: #1d4ed8;
+  transform: translateY(-1px);
+}
+
+button:active {
+  background: #1e40af;
+  transform: translateY(0);
+}
+
+/* ------------------------------
+   LISTS
+------------------------------ */
+ul, ol {
+  padding-left: 1.3rem;
+  margin-bottom: 1.2rem;
+  color: #374151;
+}
+
+li {
+  margin-bottom: 7px;
+  line-height: 1.7;
+  font-size: 15px;
+}
+
+/* Nested lists spacing */
+li ul, li ol {
+  margin-top: 6px;
+  margin-left: 1rem;
+}
+
+/* Custom Bullet List */
+ul.custom-bullet {
+  padding-left: 0;
+  list-style: none;
+}
+
+ul.custom-bullet li {
+  position: relative;
+  padding-left: 1.2rem;
+}
+
+ul.custom-bullet li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: #2563eb;
+  font-size: 1.3rem;
+  line-height: 1;
+}
+
+/* ------------------------------
+   CONTAINER / CARD STYLE
+------------------------------ */
+div {
+  margin: 20px;
+  border: 1px solid #d1d5db;
+  padding: 20px;
+  border-radius: 10px;
+  background: #ffffff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05); /* Soft card shadow */
+}
