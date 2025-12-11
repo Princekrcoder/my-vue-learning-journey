@@ -1,4 +1,27 @@
-h1, \h2, h3, h4, h5, h6 {
+h1 {
+  color: #0f172a;                     /* Deep slate text */
+  font-size: 2rem;                     /* Bigger, clean size */
+  font-weight: 700;                    /* Strong but elegant */
+  margin-bottom: 16px;
+  letter-spacing: -0.5px;              /* Tight modern spacing */
+  position: relative;
+  padding-bottom: 6px;
+}
+
+/* Optional accent underline */
+h1::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 60px;
+  height: 3px;
+  background: #2563eb;               /* Brand-blue accent */
+  border-radius: 2px;
+}
+
+
+h2, h3, h4, h5, h6 {
   color: #111;
   margin-bottom: 10px;
   font-weight: 600;
