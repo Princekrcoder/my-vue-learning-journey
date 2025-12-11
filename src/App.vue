@@ -19,7 +19,7 @@ import GetInputFieldValue from './components/getInputFieldValue.vue'
 import CheckBoxAndRadioButtonValue from './components/CheckBoxAndRadioButtonValue.vue'
 import IfElseCondition from './components/IfElseCondition.vue'
 import ForLoop from './components/ForLoop.vue'
-import PassDataToChild from './components/PassDataToChild.vue'
+
 import ReuseComponents from './components/ReuseComponents.vue'
 import PassDataToChild from './components/PassDataToChild.vue'
 
