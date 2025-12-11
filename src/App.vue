@@ -32,7 +32,8 @@ export default {
         GetInputFieldValue,
         CheckBoxAndRadioButtonValue,
         IfElseCondition,
-        ForLoop
+        ForLoop,
+        ReuseComponents
     }
 }
 </script>
