@@ -86,7 +86,9 @@ ul.custom-bullet li::before {
 
 div {
   margin: 20px;
-  bo
+  border: #555 1px solid;
+  padding: 15px;
+  border-radius: 8px;
 }
 
 
