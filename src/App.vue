@@ -6,6 +6,7 @@
     <CheckBoxAndRadioButtonValue />
     <IfElseCondition />
     <ForLoop />
+    <PassDataToChild />
     <ReuseComponents /> 
 </div>
 </template>
@@ -19,6 +20,7 @@ import IfElseCondition from './components/IfElseCondition.vue'
 import ForLoop from './components/ForLoop.vue'
 
 import ReuseComponents from './components/ReuseComponents.vue'
+import PassDataToChild from './components/PassDataToChild.vue'
 
 
 export default {
