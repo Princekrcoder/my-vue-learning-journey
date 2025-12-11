@@ -6,7 +6,12 @@
     <CheckBoxAndRadioButtonValue />
     <IfElseCondition />
     <ForLoop />
-    <PassDataToChild name="Prince" :us ="user" :al = "getalert" />
+    <PassDataToChild 
+    name="Prince"
+    :us="{ name: 'Kumar' }"
+    :al="showAlert"
+/>
+
     <ReuseComponents />
 
 </div>
