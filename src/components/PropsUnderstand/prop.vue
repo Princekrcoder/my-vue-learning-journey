@@ -2,6 +2,12 @@
     <div>
         <h1>Lecture - 20</h1>
         <h2>Understanding Props in Vue.js</h2>
-        
+
     </div>
 </template>
+
+<script>
+    export default {
+        name: 'PropsUnderstand',
+    }
+</script>
