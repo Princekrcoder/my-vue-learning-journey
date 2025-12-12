@@ -14,6 +14,7 @@
 
     <ReuseComponents />
     <HTMLbinding />
+    <ClassBinding />
 
 </div>
 </template>
@@ -29,6 +30,7 @@ import ForLoop from './components/ForLoop.vue'
 import ReuseComponents from './components/ReuseComponents.vue'
 import PassDataToChild from './components/PassDataToChild.vue'
 import HTMLbinding from './components/HTMLbinding.vue'
+import ClassBinding from './components/ClassBinding.vue'
 
 
 
@@ -45,7 +47,8 @@ export default {
         ForLoop,
         PassDataToChild,
         ReuseComponents,
-        HTMLbinding
+        HTMLbinding,
+        ClassBinding
     }
 }
 </script>
