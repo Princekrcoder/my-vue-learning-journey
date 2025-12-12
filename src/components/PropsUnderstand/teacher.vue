@@ -1,7 +1,7 @@
 <template>
     <div>
         
-        <h2>Student data</h2>
+        <h2>teacher data</h3>
     </div>
 </template>
 
