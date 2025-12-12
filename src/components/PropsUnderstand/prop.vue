@@ -3,7 +3,7 @@
         <h1>Lecture - 20</h1>
         <h2>Understanding Props in Vue.js</h2>
         <StuDent name="Prince" />
-        <TeaCher />
+        <TeaCher name/>
 
     </div>
 </template>
