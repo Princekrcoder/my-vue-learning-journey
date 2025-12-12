@@ -5,6 +5,7 @@
 </template>
 <script>
     export default {
-        name: 'ReuseChild'
+        name: 'ReuseChild',
+        pr
     }
 </script>
