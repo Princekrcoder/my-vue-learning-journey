@@ -14,6 +14,7 @@
         methods: {
             alertName() {
                 alert(this.data.name);
+                
             }
         }
     }
