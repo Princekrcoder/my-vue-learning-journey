@@ -9,7 +9,8 @@
     export default {
         name: 'ReuseChild',
         props: {
-            data:Object
+            data:Object,
+            alertName: Function
         },
         
     }
