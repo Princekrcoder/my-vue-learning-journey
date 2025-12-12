@@ -44,7 +44,8 @@ export default {
         IfElseCondition,
         ForLoop,
         PassDataToChild,
-        ReuseComponents
+        ReuseComponents,
+        HTMLbinding
     }
 }
 </script>
