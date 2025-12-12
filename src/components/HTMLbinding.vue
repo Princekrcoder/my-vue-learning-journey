@@ -2,7 +2,6 @@
     <div>
         <h1>Lecture - 18</h1>
         <h1>This is HTML Binding Component</h1>
-        <div v-html="htmlContent"></div>
     </div>
 </template>
 
