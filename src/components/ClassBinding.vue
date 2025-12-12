@@ -14,7 +14,8 @@
             return {
                 bgcolor: false
             }
-        }
+        },
+        computed
     }
 </script>
 
