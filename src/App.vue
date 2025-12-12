@@ -14,7 +14,8 @@
 
     <ReuseComponents />
     <HTMLbinding />
-    <ClassBinding />
+    <ClassBinding />    
+    <PropsUnderstand />
 
 </div>
 </template>
