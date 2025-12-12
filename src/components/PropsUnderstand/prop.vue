@@ -7,6 +7,7 @@
 </template>
 
 <script>
+    im
     export default {
         name: 'PropsUnderstand',
     }
