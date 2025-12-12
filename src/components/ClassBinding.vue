@@ -19,9 +19,7 @@
 </script>
 
 <style scoped>
-    .clbinding {
-        color: blue;
-    }
+    
 
     .bgcolor {
         background-color: yellow;
