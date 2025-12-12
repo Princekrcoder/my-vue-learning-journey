@@ -5,7 +5,7 @@
 
     <ol>
         <li v-for="i in users" :key="i.name">
-            <ReuseChild :data="i"/>
+            <ReuseChild :data="i" :=""/>
             
         </li>
     </ol>
