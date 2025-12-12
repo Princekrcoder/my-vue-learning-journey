@@ -14,7 +14,7 @@
     export default {
         name: 'PropsUnderstand',
         components: {
-            Student,
+            StuDent,
             Teacher
         }
     }
