@@ -22,6 +22,6 @@
     
 
     .bgcolor {
-        background-color: yellow;
+        color: yellow;
     }
 </style>
