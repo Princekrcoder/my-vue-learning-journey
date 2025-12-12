@@ -9,13 +9,13 @@
 </template>
 
 <script>
-    import Student from './student.vue'
-    import Teacher from './teacher.vue'
+    import StuCent from './student.vue'
+    import TeaCher from './teacher.vue'
     export default {
         name: 'PropsUnderstand',
         components: {
             StuDent,
-            Teacher
+            TeaCher
         }
     }
 </script>
