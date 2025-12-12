@@ -31,6 +31,12 @@ export default {
                 { name: 'Aman', email: 'aman@gmail.com'}
             ]
         }
-    }
+    },
+    methods: {
+            alertName() {
+                alert(this.users.name);
+                
+            }
+        }
 }
 </script>
