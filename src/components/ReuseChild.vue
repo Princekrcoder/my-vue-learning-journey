@@ -14,7 +14,7 @@
         methods: {
             alertName() {
                 alert(this.data.name);
-                alert('Button Clicked');
+                
             }
         }
     }
