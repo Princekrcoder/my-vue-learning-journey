@@ -11,11 +11,6 @@
         props: {
             data:Object
         },
-        methods: {
-            alertName() {
-                alert(this.data.name);
-                
-            }
-        }
+        
     }
 </script>
