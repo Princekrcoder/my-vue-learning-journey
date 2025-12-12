@@ -10,6 +10,9 @@
 <script>
 import ReuseChild from './ReuseChild.vue'
 export default {
-    name: "ReuseComponents"
+    name: "ReuseComponents",
+    components: {
+        ReuseChild
+    }
 }
 </script>
