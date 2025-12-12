@@ -13,6 +13,7 @@
 />
 
     <ReuseComponents />
+    <HTMLbinding />
 
 </div>
 </template>
@@ -27,6 +28,7 @@ import ForLoop from './components/ForLoop.vue'
 
 import ReuseComponents from './components/ReuseComponents.vue'
 import PassDataToChild from './components/PassDataToChild.vue'
+import HTMLbinding from './components/HTMLbinding.vue'
 
 
 
