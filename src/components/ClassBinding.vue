@@ -1,7 +1,7 @@
 <template>
     <div>
         <h1>Lecture - 19</h1>
-        <h2 class="normal" :class="applyStyle">Class Binding in Vue.js</h2>
+        <h2  :class="applyStyle">Class Binding in Vue.js</h2>
         <button v-on:click="bgcolor=!bgcolor">Apply Style</button>
 
     </div>
