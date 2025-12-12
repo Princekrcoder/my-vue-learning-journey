@@ -19,7 +19,8 @@ export default {
             users: [
                 { name: 'Prince', email: "prince@gmail.com"},
                 { name: 'Kumar', email: 'kumar@gmail.com'},
-                { name: 'Singh', email: 'singh'}
+                { name: 'Singh', email: 'singh@gmail.com'},
+                { name: 'Aman', email: 'aman@gmail.com'}
             ]
         }
     }
