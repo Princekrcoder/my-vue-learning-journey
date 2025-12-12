@@ -2,14 +2,14 @@
     <div>
         <h1>Lecture - 20</h1>
         <h2>Understanding Props in Vue.js</h2>
-        <Student />
-        <Teacher />
+        <StuDent />
+        <TeaCher />
 
     </div>
 </template>
 
 <script>
-    import StuCent from './student.vue'
+    import StuDent from './student.vue'
     import TeaCher from './teacher.vue'
     export default {
         name: 'PropsUnderstand',
