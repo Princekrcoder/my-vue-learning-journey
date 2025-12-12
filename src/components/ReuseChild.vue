@@ -2,6 +2,7 @@
     <div>
         <h1>This is Reuse Child Component</h1>
         Name: {{ data.name }} | Email: {{ data.email }}
+        <button >Aler Name</button>
     </div>
 </template>
 <script>
