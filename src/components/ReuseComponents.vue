@@ -34,7 +34,7 @@ export default {
     },
     methods: {
             alertName() {
-                alert(this.users.name);
+                alert(users.name);
                 
             }
         }
