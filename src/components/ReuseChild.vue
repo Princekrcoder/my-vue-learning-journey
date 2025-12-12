@@ -7,7 +7,7 @@
     export default {
         name: 'ReuseChild',
         props: {
-            i:Object
+            data:Object
         }
     }
 </script>
