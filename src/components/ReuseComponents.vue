@@ -16,7 +16,9 @@ export default {
     },
     data() {
         return {
-            users: 
+            users: [
+                { name: 'Prince', email}
+            ]
         }
     }
 }
