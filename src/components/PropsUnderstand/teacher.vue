@@ -9,5 +9,8 @@
 <script>
     export default {
         name: 'teaCher',
+        props: {
+            name:String
+        }
     }
 </script>
