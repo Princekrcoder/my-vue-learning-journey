@@ -36,4 +36,12 @@
         border-radius: 5px;
         text-align: center;
     }
+
+    .err {
+        color: red;
+    }
+
+    .other {
+        font-style: italic;
+    }
 </style>
