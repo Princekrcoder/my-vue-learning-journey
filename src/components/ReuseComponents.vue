@@ -3,8 +3,8 @@
     <h1>Lecture - 17</h1>
     <h1>Reuse Components</h1>
     <ol>
-        <li v-for="i in users" :key="item.">
-
+        <li v-for="i in users" :key="item.name">
+            Name: {{ i.name }} | Email: {{ i.email }}
         </li>
     </ol>
     <ReuseChild />
