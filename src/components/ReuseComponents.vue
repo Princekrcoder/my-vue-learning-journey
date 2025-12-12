@@ -14,6 +14,10 @@ export default {
     components: {
         ReuseChild
     },
-    
+    data() {
+        return {
+            users: 
+        }
+    }
 }
 </script>
