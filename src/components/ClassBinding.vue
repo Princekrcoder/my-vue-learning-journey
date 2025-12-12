@@ -10,6 +10,10 @@
 <script>
     export default {
         name: 'ClassBinding',
-        
+        data() {
+            return {
+                
+            }
+        }
     }
 </script>
