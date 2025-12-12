@@ -10,7 +10,9 @@
     export default {
         name: 'HTMLbinding',
         data() {
-            
+            return {
+                htmlContent: '<h2 style="color:blue;">This is HTML Content</h2>'
+            }
         }
         
     }
