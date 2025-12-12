@@ -20,7 +20,7 @@
                 return {
                     clbinding:bgcolor,
                     err:true,
-                    
+                    other:true
                 }
             }
         }
