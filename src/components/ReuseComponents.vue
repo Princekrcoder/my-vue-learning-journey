@@ -5,7 +5,7 @@
 
     <ol>
         <li v-for="i in users" :key="i.name">
-            <ReuseChild :data="i" :aler/>
+            <ReuseChild :data="i" :alertName="alertName"/>
             
         </li>
     </ol>
