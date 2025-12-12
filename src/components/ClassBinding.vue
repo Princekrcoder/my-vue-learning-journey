@@ -2,7 +2,7 @@
     <div>
         <h1>Lecture - 19</h1>
         <h2 :class="{clbinding:bgcolor}">Class Binding in Vue.js</h2>
-        <button v-on:click="bgcolor!=bgcolor">Apply Style</button>
+        <button v-on:click="bgcolor=!bgcolor">Apply Style</button>
 
     </div>
 </template>
