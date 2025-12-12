@@ -15,7 +15,11 @@
                 bgcolor: false
             }
         },
-        computed
+        computed: {
+            applyStyle() {
+                
+            }
+        }
     }
 </script>
 
