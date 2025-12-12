@@ -12,7 +12,7 @@
         name: 'ClassBinding',
         data() {
             return {
-                
+                bgcolor: false
             }
         }
     }
