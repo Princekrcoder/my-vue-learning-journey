@@ -1,4 +1,6 @@
 <template></template>
 <script>
-    export def
+    export default {
+        name: 'ReuseChild'
+    }
 </script>
