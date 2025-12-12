@@ -21,7 +21,7 @@
 <style scoped>
     
 
-    .bgcolor {
-        color: yellow;
+    .clbinding {
+        bg-color: yellow;
     }
 </style>
