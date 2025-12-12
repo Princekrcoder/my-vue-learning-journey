@@ -22,6 +22,7 @@
     
 
     .clbinding {
-        bg-color: yellow;
+        background-color: lightblue;
+        
     }
 </style>
