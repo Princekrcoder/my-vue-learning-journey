@@ -10,7 +10,7 @@
         name: 'HTMLbinding',
         data() {
             return {
-                htmlContent: '<h2 style="color:blue;">This is HTML Content</h2>'
+                htmlContent: '<h2>This is HTML Content</h2>'
             }
         }
         
