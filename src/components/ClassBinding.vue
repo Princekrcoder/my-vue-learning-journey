@@ -3,5 +3,7 @@
 </template>
 
 <script>
-    expo
+    export default {
+        name: 'ClassBinding'
+    }
 </script>
