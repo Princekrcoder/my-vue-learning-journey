@@ -18,7 +18,7 @@
         computed: {
             applyStyle() {
                 return {
-                    {clbinding:bgcolor,err:true}
+                    clbinding:bgcolor,err:true
                 }
             }
         }
