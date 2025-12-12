@@ -6,6 +6,8 @@
 <script>
     export default {
         name: 'ReuseChild',
-        pr
+        props: {
+            i:Object
+        }
     }
 </script>
