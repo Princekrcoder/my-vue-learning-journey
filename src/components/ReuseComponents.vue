@@ -13,6 +13,7 @@ export default {
     name: "ReuseComponents",
     components: {
         ReuseChild
-    }
+    },
+    
 }
 </script>
