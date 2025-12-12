@@ -33,8 +33,8 @@ export default {
         }
     },
     methods: {
-            alertName() {
-                alert(users.name);
+            alertName(user) {
+                alert(user.name);
                 
             }
         }
