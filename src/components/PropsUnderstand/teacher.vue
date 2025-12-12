@@ -7,6 +7,6 @@
 
 <script>
     export default {
-        name: 'teacher',
+        name: 'teaCher',
     }
 </script>
