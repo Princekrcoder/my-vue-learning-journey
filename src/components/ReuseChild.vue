@@ -2,7 +2,7 @@
     <div>
         <h1>This is Reuse Child Component</h1>
         Name: {{ data.name }} | Email: {{ data.email }}
-        <button v:onclick>Aler Name</button>
+        <button v:onclick="">Aler Name</button>
     </div>
 </template>
 <script>
@@ -10,6 +10,9 @@
         name: 'ReuseChild',
         props: {
             data:Object
+        },
+        methods: {
+            
         }
     }
 </script>
