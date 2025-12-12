@@ -7,6 +7,7 @@
             Name: {{ i.name }} | Email: {{ i.email }}
         </li>
     </ol>
+    
     <ReuseChild />
     
 </div>
