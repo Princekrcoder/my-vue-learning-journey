@@ -2,7 +2,7 @@
     <div>
         <h1>This is Reuse Child Component</h1>
         Name: {{ data.name }} | Email: {{ data.email }}
-        <button v:on:click="alertName">Alert Name</button>
+        <button v-on:click="alertName">Alert Name</button>
     </div>
 </template>
 <script>
