@@ -13,6 +13,11 @@
     import TeaCher from './teacher.vue'
     export default {
         name: 'PropsUnderstand',
+        data() {
+            return {
+                college: 'Cu Mohali'
+            }
+        },
         components: {
             StuDent,
             TeaCher
