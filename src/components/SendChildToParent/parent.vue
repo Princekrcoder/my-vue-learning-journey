@@ -9,4 +9,5 @@
 <script>
     export default {
         name: 'ParentData',
-        
+    }
+</script>
