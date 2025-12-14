@@ -37,7 +37,6 @@ export default {
             who: null
         }
     }
-
 }
 </script>
 
