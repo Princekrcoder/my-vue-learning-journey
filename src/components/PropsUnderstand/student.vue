@@ -1,7 +1,7 @@
 <template>
     <div>
        <h3>Student data</h3>
-       <h3>Student name is {{ name }} from {{ college }} college.</h3>
+       <h3>Student name is {{ Name }} from {{ college }} college.</h3>
     </div>
 </template>
 
@@ -9,7 +9,7 @@
     export default {
         name: 'StuDent',
         props: {
-            name: String,
+            Name: String,
             college: String
         }
     }
