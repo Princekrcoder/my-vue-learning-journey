@@ -34,7 +34,7 @@ import PassDataToChild from './components/PassDataToChild.vue'
 import HTMLbinding from './components/HTMLbinding.vue'
 import ClassBinding from './components/ClassBinding.vue'
 import PropsUnderstand from './components/PropsUnderstand/prop.vue'
-import
+import ParentData from './components/SendChildToParent/parent.vue'
 
 
 
@@ -53,7 +53,8 @@ export default {
         ReuseComponents,
         HTMLbinding,
         ClassBinding,
-        PropsUnderstand
+        PropsUnderstand,
+        ParentData
     }
 }
 </script>
