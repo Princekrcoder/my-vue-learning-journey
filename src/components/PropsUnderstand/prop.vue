@@ -2,7 +2,7 @@
     <div>
         <h1>Lecture - 20</h1>
         <h2>Understanding Props in Vue.js</h2>
-        <StuDent name="Prince" />
+        <StuDent name="Prince" college="college"/>
         <TeaCher name="Alex"/>
 
     </div>
