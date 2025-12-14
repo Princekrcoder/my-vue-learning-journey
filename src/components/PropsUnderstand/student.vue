@@ -9,7 +9,8 @@
     export default {
         name: 'StuDent',
         props: {
-            name: String
+            name: String,
+            college: String
         }
     }
 </script>
