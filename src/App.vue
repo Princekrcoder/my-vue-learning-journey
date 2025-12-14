@@ -16,6 +16,7 @@
     <HTMLbinding />
     <ClassBinding />    
     <PropsUnderstand />
+    <ParentData />
 
 </div>
 </template>
@@ -33,6 +34,7 @@ import PassDataToChild from './components/PassDataToChild.vue'
 import HTMLbinding from './components/HTMLbinding.vue'
 import ClassBinding from './components/ClassBinding.vue'
 import PropsUnderstand from './components/PropsUnderstand/prop.vue'
+import
 
 
 
